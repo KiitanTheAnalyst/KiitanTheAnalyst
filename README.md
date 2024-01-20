@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Olaitan Suru
-- 👀 I’m interested in using various tools to analyze and make findings from data
-- 🌱 I’m currently learning python as one of the essential tools for analysis
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me : suruolaitan@gmail.com
+##Hello there; Welcome!
+
+- 👋 I’m Olaitan Suru
 - 😄 Pronouns: Her/She
+- 👀 I’m interested in Data Analytics and Science
+- 🌱 I’m currently learning python as one of the essential tools for analysis
+- 💞 I’m looking to collaborate on open source projects, Internships, hackathon and entry-level opportunities
+- 📫 How to reach me : suruolaitan@gmail.com
 - ⚡ Fun fact: I enjoy transforming data!
+  
 
 <!---
 KiitanTheAnalyst/KiitanTheAnalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
